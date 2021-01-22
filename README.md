@@ -1,4 +1,4 @@
-# Computer-Vision-Projects
+# Machine Learning Projects
 This repo contains the projects related to computer vision
 ### Digit Recognition
 Identifies the handwritten digits
